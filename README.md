@@ -9,3 +9,6 @@
 
 ### VFX 3 - Magic Attack (flower projectile)
 ![ConceptVFX-JPZ (20241108021651)](https://github.com/user-attachments/assets/1d9c2dd1-ee62-4142-aa0f-36acd5a81310)
+
+### VFX 4 - Flower Rain
+![ConceptVFX-All (20241108023617)](https://github.com/user-attachments/assets/4766e858-f161-4d2b-b13d-cfc671e8b88d)
